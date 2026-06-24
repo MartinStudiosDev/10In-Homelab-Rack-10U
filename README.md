@@ -1,4 +1,4 @@
-# 10" 10U 2020 Extrusion Homelab Rack
+# 10" 10U 2020 Extrusion Homelab Rack 
 
 A DIY **10-inch, 10U homelab rack** built from **2020 aluminum extrusion**. This design is perfect for networking equipment, mini PCs, switches, NAS devices, patch panels, and other standard 10-inch rack hardware.
 
