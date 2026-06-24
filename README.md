@@ -10,7 +10,7 @@ This repository is intended for makers who enjoy building their own hardware and
 
 The free GitHub release includes:
 
-- STEP file of the completed rack [Here](10In10UHomelabRack.step)
+- STEP file of the completed rack [Here](10In%2010U%20Homelab%20Rack.step)
 - 2020 extrusion cut list
 - Amazon referral links for the aluminum extrusion used in the build
 
