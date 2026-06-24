@@ -4,6 +4,11 @@ A DIY **10-inch, 10U homelab rack** built from **2020 aluminum extrusion**. This
 
 This repository is intended for makers who enjoy building their own hardware and want a solid starting point for a custom homelab rack.
 
+Take a look for yourself!
+
+- [Video 1](https://www.tiktok.com/@rmartin3d/video/7652907623662079245?is_from_webapp=1&sender_device=pc&web_id=7649505695515756045)
+- [Video 2](https://www.tiktok.com/@rmartin3d/video/7653643881023556878?is_from_webapp=1&sender_device=pc&web_id=7649505695515756045)
+
 ---
 
 ## Included
