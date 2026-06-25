@@ -48,9 +48,8 @@ If you'd rather spend your time building than figuring out the details, the Etsy
 The frame is built using:
 
 - 2020 aluminum extrusion [Buy Here](https://amzn.to/4uXWB6v)
-- Corner brackets
-- T-nuts
-- M5 hardware
+- M5 hardware, T-Nuts, Corner Brackets [Buy Here](https://amzn.to/4vAoWRo)
+- Chopsaw or handsaw for cutting extrusion
 
 ---
 ## Cutlist
