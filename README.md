@@ -29,8 +29,9 @@ The complete version available on Etsy includes everything needed to build the r
 
 ### Included with the paid version
 
-- Fusion 360 source files
-- Tutorial video to customize the U spacing needed
+- Parametric Fusion 360 source files
+- Tutorial video to customize the "U" spacing needed
+- Inserts for rack screws
 - Complete CAD project
 - Assembly guide
 - Hardware list with quantities and specifications
